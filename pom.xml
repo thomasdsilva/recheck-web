@@ -90,7 +90,7 @@
 		<dependency>
 			<groupId>de.retest</groupId>
 			<artifactId>recheck</artifactId>
-			<version>4b91d88466d58f544ebdb96447ede6ae8e63e3e6</version>
+			<version>ff63b3d</version>
 		</dependency>
 
 		<dependency>
@@ -122,7 +122,7 @@
 		<dependency>
 			<groupId>org.yaml</groupId>
 			<artifactId>snakeyaml</artifactId>
-			<version>1.26</version>            
+			<version>1.26</version>
 		</dependency>
 
 		<dependency>
